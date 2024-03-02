@@ -1,13 +1,13 @@
-package com.sergius.co.ke.AllConceptsApp;
+package com.sergius.co.ke.allconceptsapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AllConceptsAppApplication {
+public class allconceptsappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AllConceptsAppApplication.class, args);
+		SpringApplication.run(allconceptsappApplication.class, args);
 	}
 
 }
